@@ -55,7 +55,7 @@
   <h1>
     تاهڤ ١ | 1 Tahad
   </h1>
- اڤ يڠ كوچيڠ اد تتاڤي حيوان لاءين تياد؟ <div></div>Apa yang kucing ada tetapi haiwan lain tiada?  
+ <div dir="rtl" class="Font">اڤ يڠ كوچيڠ اد تتاڤي حيوان لاءين تياد؟</div><div dir="rtl" class="Font">Apa yang kucing ada tetapi haiwan lain tiada?</div>
   <div dir="rtl"><a href="https;//tekariddle.github.io/salah"><button class="button button1">ا. مات \ A. Mata</button></a><a href="https;//tekariddle.github.io/betul"><button class="button button2">ب. انق كوچيڠ \ B. Anak kucing</button></a></div><div dir="rtl"><a href="https;//tekariddle.github.io/salah"><button class="button button3">ت. انق \ C. Anak</button></a><a href="https;//tekariddle.github.io/salah"><button class="button button4">ث. كاكي \ D. Kaki</button></a></div>
 </body>
 <style>
